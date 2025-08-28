@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36212.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CareerCrafter_JobPortal", "..\source\repos\CareerCrafter_JobPortal\CaseStudy\CareerCrafter_JobPortal.csproj", "{D1FE0F15-4B2D-4A72-A956-3A36E0F6AC30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CareerCrafter_JobPortalTest", "..\source\repos\CareerCrafter_JobPortal\CareerCrafter_JobPortalTest\CareerCrafter_JobPortalTest.csproj", "{3BE84B63-8184-431C-BB3D-0054408C1A46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1FE0F15-4B2D-4A72-A956-3A36E0F6AC30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1FE0F15-4B2D-4A72-A956-3A36E0F6AC30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1FE0F15-4B2D-4A72-A956-3A36E0F6AC30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1FE0F15-4B2D-4A72-A956-3A36E0F6AC30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BE84B63-8184-431C-BB3D-0054408C1A46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BE84B63-8184-431C-BB3D-0054408C1A46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BE84B63-8184-431C-BB3D-0054408C1A46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BE84B63-8184-431C-BB3D-0054408C1A46}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D119D676-A37B-48DF-B658-9F0E54599A92}
+	EndGlobalSection
+EndGlobal
